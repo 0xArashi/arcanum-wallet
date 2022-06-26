@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Arcanum Wallet",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

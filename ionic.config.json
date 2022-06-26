@@ -1,0 +1,8 @@
+{
+  "name": "Arcanum Wallet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "7b24cbac"
+}
